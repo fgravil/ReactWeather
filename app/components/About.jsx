@@ -21,7 +21,7 @@ var About = (props) => {
           Responsive front-end framework I used.
         </li>
       </ul>
-      <p>Fell free to download the source code
+      <p>Feel free to download the source code
          <a href="https://github.com/fgravil/ReactWeather"> Here</a>.</p>
     </div>
   )
