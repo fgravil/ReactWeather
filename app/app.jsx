@@ -15,7 +15,7 @@ ReactDOM.render(
   <Router history={hashHistory}>
     <Route path="/" component={Main}>
       <Route path="about" component={About} />
-      <Route path="example" component={Example} />
+      <Route path="examples" component={Example} />
       <IndexRoute component={Weather}/>
     </Route>
   </Router>,
